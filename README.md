@@ -1,1 +1,1 @@
-Контракты для API сервиса Identity для Logistic service
+Контракты MassTransit для сервисов Logistic service
