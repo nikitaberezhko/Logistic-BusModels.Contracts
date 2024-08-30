@@ -7,5 +7,7 @@ public class OrderCreatedMessage
     
     public Guid OrderId { get; set; }
     
+    public Guid HubStartId { get; set; }
+    
     public DateTime EngagedUntil { get; set; }
 }
